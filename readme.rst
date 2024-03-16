@@ -76,3 +76,6 @@ Follow these steps to open the project:
 3.Now open the browser/new tab click:localhost/bhavitha to run the project.
 4.I have mentioned the screenshots of the projects output to view.
 5.Completed the task with all the rules mentioned.
+
+
+** screenshots are placed in assets
